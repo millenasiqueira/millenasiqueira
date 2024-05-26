@@ -14,7 +14,7 @@
 📄 I published an [article](https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millenasiqueira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millenasiqueira)](https://github.com/millenasiqueira/github-readme-stats)
 
 
 
