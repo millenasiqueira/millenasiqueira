@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ML, LLMs and new languages**
 
-- 📝 I published a book [https://my.nea-edicoes.com/catalog/details//store/pt/book/978-620-4-19231-4/desenvolvimento-de-uma-ferramenta-computacional](https://my.nea-edicoes.com/catalog/details//store/pt/book/978-620-4-19231-4/desenvolvimento-de-uma-ferramenta-computacional)
+- 📝 I published a [book](https://my.nea-edicoes.com/catalog/details//store/pt/book/978-620-4-19231-4/desenvolvimento-de-uma-ferramenta-computacional)
 
-- 📄 I published an article [https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256](https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256)
+- 📄 I published an [article](https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
