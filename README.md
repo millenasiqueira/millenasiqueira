@@ -2,9 +2,10 @@
 <h3 align="center">Currently Exploring Career Paths in Engineering and Technology</h3>
 
 👩🏻‍🎓 I'm Petroleum and Gas Engineering, with postgraduate degrees in Health, Safety, and Environment Engineering, as well as Occupational and Diploma in Business Administration<br>
-<br>📚 I'm currently doing a Postdegree in Applied AI Solutions Development<br>
-<br>🔭 I’m currently working on Machine Learning Projects<br>
-<br>🌱 I’m currently learning ML, LLMs and new languages<br>
+<br>📚 I'm doing a Postdegree in Applied AI Solutions Development<br>
+<br>🔭 I’m working on Machine Learning Projects<br>
+<br>🌱 I’m learning new topics and languages<br>
+<br>🗣️ I speak Portuguese, English, French and Farsi 
 <br>📝 I published a [book](https://my.nea-edicoes.com/catalog/details//store/pt/book/978-620-4-19231-4/desenvolvimento-de-uma-ferramenta-computacional)<br>
 <br>📄 I published an [article](https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256)
 
