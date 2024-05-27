@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I’m Millena 💫 </h1>
 <h3 align="center">Currently Exploring Career Paths in Engineering and Technology</h3>
 
-👩🏻‍🎓 I'm Petroleum and Gas Engineering, with postgraduate degrees in Health, Safety, and Environment Engineering, as well as Occupational and Diploma in Business Administration<br>
-<br>📚 I'm doing a Postdegree in Applied AI Solutions Development<br>
+👩🏻‍🎓 I'm Petroleum and Gas Engineer, with postgraduate degrees in Health, Safety, and Environment Engineering and Diploma in Business Administration<br>
+<br>📚 I'm pursuing a Postdegree in Applied AI Solutions Development at George Brown College<br>
 <br>🔭 I’m working on Machine Learning Projects<br>
 <br>🌱 I’m learning new topics and languages<br>
 <br>🗣️ I speak Portuguese, English, French and Farsi <br>
