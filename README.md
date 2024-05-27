@@ -5,7 +5,7 @@
 <br>📚 I'm doing a Postdegree in Applied AI Solutions Development<br>
 <br>🔭 I’m working on Machine Learning Projects<br>
 <br>🌱 I’m learning new topics and languages<br>
-<br>🗣️ I speak Portuguese, English, French and Farsi 
+<br>🗣️ I speak Portuguese, English, French and Farsi <br>
 <br>📝 I published a [book](https://my.nea-edicoes.com/catalog/details//store/pt/book/978-620-4-19231-4/desenvolvimento-de-uma-ferramenta-computacional)<br>
 <br>📄 I published an [article](https://onepetro.org/SPELAMA/proceedings-abstract/17LAMA/2-17LAMA/D021S010R002/195256)
 
